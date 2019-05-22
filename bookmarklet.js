@@ -1,0 +1,1 @@
+javascript:(function(){Array.prototype.slice.call(document.querySelectorAll('img')).map(function(el){el.src = 'https://github.com/coolcraftnet18/image-unavailable/blob/master/unavailable.png?raw=true';});}())
